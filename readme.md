@@ -1,4 +1,4 @@
-##Get started
+**Get started**
 
 conda create -n yolov7 python=3.9
 
